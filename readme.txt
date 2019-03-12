@@ -5,6 +5,6 @@
 ./control - contains the controllers of app
 ./lib - contains external libraries
 
-please inmport the sql script to your DB
+please inmport the sql script (k1.sql) to your DB
 then change configuration in ./config/dbcon.php
 open ./view folder, it contains the views
